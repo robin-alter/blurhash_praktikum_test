@@ -3,7 +3,6 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'dart:typed_data';
 import 'dart:io';
-import 'dart:ui' as ui;
 
 import 'package:blurhash_dart/blurhash_dart.dart';
 import 'package:image/image.dart' as img;
